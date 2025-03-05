@@ -31,7 +31,7 @@ namespace InflatableHammerBonkMod.Patches
 				if (Bundle != null)
 				{
 					newHitSound = Bundle.LoadAllAssets<AudioClip>().ToList();
-					Logger.LogInfo("Asset bundle loaded!");
+					//Logger.LogInfo("Asset bundle loaded!");
 				}
 				else
 				{
