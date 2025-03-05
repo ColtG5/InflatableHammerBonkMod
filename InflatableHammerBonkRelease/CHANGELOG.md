@@ -1,4 +1,6 @@
 # Changelog
+## 1.0.3
+ACTUALLY fixed BepInEx dependancy version !
 ## 1.0.2
 Removed some debug stuffs
 ## 1.0.1

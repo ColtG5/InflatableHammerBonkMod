@@ -14,7 +14,7 @@ namespace InflatableHammerBonkMod
 	{
 		private const string modGUID = "ColtG5.InflatableHammerBonk";
 		private const string modName = "InflatableHammerBonk";
-		private const string modVersion = "1.0.2";
+		private const string modVersion = "1.0.3";
 
 		private readonly Harmony harmony = new Harmony(modGUID);
 

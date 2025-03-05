@@ -1,7 +1,7 @@
 {
     "name": "InflatableHammerBonk",
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "",
     "description": "Adds a bonk sound effect when hitting stuff with the inflatable hammer!",
-    "dependencies": ["bbepis-BepInExPack-5.4.2100"]
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
 }
